@@ -25,3 +25,7 @@ Project Management Old Slides + References
 Soft Computing Old Slides
 Compliers Old Slides
 ```
+*06/10/2023*
+```
+Selected topics in cs 'AUC SLides'
+``` 
