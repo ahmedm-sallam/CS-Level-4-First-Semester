@@ -14,8 +14,7 @@
 
 ## Courses Classroom Link
 
-**Selected Topics in CS-1:**
->https://classroom.google.com/c/NjI5NzQzODEwNDU0?cjc=mnmyxrm
+![Selected Topics in CS-1:](https://classroom.google.com/c/NjI5NzQzODEwNDU0?cjc=mnmyxrm)
 
 ## Pervious Materials 
 **Level 3 First Semster**
@@ -23,16 +22,3 @@
 
 **Level 3 Second Semster**
 > https://drive.google.com/drive/folders/1-Mok4RxBDwmqJGxixSH4jzoP3Dg12HHf?usp=drive_link
-
-## Upload History
-*05/10/2023*
-```
-ML Old Slides
-Project Management Old Slides + References
-Soft Computing Old Slides
-Compliers Old Slides
-```
-*06/10/2023*
-```
-Selected topics in cs 'AUC SLides'
-``` 
