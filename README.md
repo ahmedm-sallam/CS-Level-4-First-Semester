@@ -12,9 +12,17 @@
 
 ![V01](https://github.com/ahmedm-sallam/CS-Level-4/assets/97572668/e0668dab-abd8-498a-8d05-af1ca6582171)
 
-## Courses Classroom Link
+## Courses Google Classroom Link
 
-![Selected Topics in CS-1:](https://classroom.google.com/c/NjI5NzQzODEwNDU0?cjc=mnmyxrm)
+**Selected Topics in CS-1:**
+>https://classroom.google.com/c/NjI5NzQzODEwNDU0?cjc=mnmyxrm
+
+**Machine Learning:**
+>https://classroom.google.com/c/NjMwMzQzMjEwMjI3?cjc=vtizokp
+
+**Project management:**
+>https://classroom.google.com/c/NjI5ODAwNjEwODY1?cjc=rrlm2q2
+
 
 ## Pervious Materials 
 **Level 3 First Semster**
