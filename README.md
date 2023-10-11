@@ -6,6 +6,7 @@
 ## Get Started
 **Use git commands to Download the Content on your PC**
 > git clone https://github.com/ahmedm-sallam/CS-Level-4.git
+
 > git pull
 
 ## Schedule V01
@@ -23,6 +24,8 @@
 **Project management:**
 >https://classroom.google.com/c/NjI5ODAwNjEwODY1?cjc=rrlm2q2
 
+**Soft Computing: **
+> https://classroom.google.com/c/NjMwNTA1MTg5NDY1?cjc=4hk3vrz
 
 ## Pervious Materials 
 **Level 3 First Semster**
