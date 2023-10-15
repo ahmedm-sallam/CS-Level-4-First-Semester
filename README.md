@@ -24,9 +24,11 @@
 **Project management:**
 >https://classroom.google.com/c/NjI5ODAwNjEwODY1?cjc=rrlm2q2
 
-**Soft Computing: **
+**Soft Computing:**
 > https://classroom.google.com/c/NjMwNTA1MTg5NDY1?cjc=4hk3vrz
 
+**Compiler:**
+>https://classroom.google.com/c/NjMzNzkxOTQ4NTE4?cjc=6pmwh2b
 ## Pervious Materials 
 **Level 3 First Semster**
 > https://drive.google.com/drive/folders/1ro-kWS7-C7vI-a9E5G_jKTPP-w7lBXIy?usp=drive_link
