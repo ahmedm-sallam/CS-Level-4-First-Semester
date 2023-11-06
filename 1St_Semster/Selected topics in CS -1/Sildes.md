@@ -8,3 +8,12 @@ _Week 2 (STLs II):_
 
 _Week 3 (Static Range Queries):_
  >https://www.canva.com/design/DAFpEjG9nz8/Q9WM6fXm3vP1XV3_94PSBQ/view?utm_content=DAFpEjG9nz8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+ 
+
+_Week 4 (Binary Search + Two Pointers):_
+
+>https://www.canva.com/design/DAFpEqkVTS4/E8LFTmeCL8TCJtT8DZcEIA/view?utm_content=DAFpEqkVTS4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+_Week 5 (Greedy):_ 
+
+>https://www.canva.com/design/DAFpEjKS5fs/5Up84GUM4yUIqK0ue-L-BQ/view?utm_content=DAFpEjKS5fs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
