@@ -13,6 +13,9 @@
 
 ![V01](https://github.com/ahmedm-sallam/CS-Level-4/assets/97572668/d31beda3-5901-4977-822a-a16e5b599963)!
 
+## Midterm Schedule
+
+![Midterm](https://github.com/ahmedm-sallam/CS-Level-4/assets/97572668/640d6f22-c3e0-4e6c-afa2-3cb2be050e2e)
 
 ## Courses Google Classroom Link
 
