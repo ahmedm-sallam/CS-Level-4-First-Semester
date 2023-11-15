@@ -17,3 +17,6 @@ _Week 4 (Binary Search + Two Pointers):_
 _Week 5 (Greedy):_ 
 
 >https://www.canva.com/design/DAFpEjKS5fs/5Up84GUM4yUIqK0ue-L-BQ/view?utm_content=DAFpEjKS5fs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+_Week 6 (Number Theory):_ 
+>https://www.canva.com/design/DAFpEnJxgEM/x7JtQb2CTN12A7Tm00XfCQ/view?utm_content=DAFpEnJxgEM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
