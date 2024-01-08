@@ -56,14 +56,14 @@ _Week 9 (BFS):_
 https://www.canva.com/design/DAF1e05n4O0/B9Gcdp3RZVIH1QUS0FdlFg/view?utm_content=DAF1e05n4O0&utm_campaign=designshare&utm_medium=link&utm_source=viewer
 ```
 
-_Week 10 (Dynamic Programming):
+_Week 10 (Dynamic Programming):_
 
 ```
-https://www.canva.com/design/DAF0EKhOQyM/qXQfgqwnUST3whE4_2NGug/view?utm_content=DAF0EKhOQyM&utm_campaign=designshare&utm_medium=link&utm_source=viewer
+https://www.canva.com/design/DAF0EKhOQyM/qXQfgqwnUST3whE4_2NGug/view utm_content=DAF0EKhOQyM&utm_campaign=designshare&utm_medium=link&utm_source=viewer
 ```
 
 _Week 11 (Iterative Dynamic Programming):_
 
 ```
-https://www.canva.com/design/DAF0rVvTp4c/YD9S1-3HDkirsjjuhvai7Q/view?utm_content=DAF0rVvTp4c&utm_campaign=designshare&utm_medium=link&utm_source=viewer
+https://www.canva.com/design/DAF0rVvTp4c/YD9S1-3HDkirsjjuhvai7Q/view utm_content=DAF0rVvTp4c&utm_campaign=designshare&utm_medium=link&utm_source=viewer
 ```
