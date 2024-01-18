@@ -6,3 +6,8 @@
 حد من زميلنا جزاها الله خيرا كان مسجل المحاضره ك Audio 
 
 > https://drive.google.com/file/d/1HNaKDlypifv2Ae8dxx6UeBjdY04GjPTm/view?usp=drive_link
+
+Lec7-IGA-Schema 
+شرح زميلنا أحمد زيدان جزاه الله خيرا
+
+> https://drive.google.com/file/d/1--iMKLg7qrU51BSyRDwTc7Jq7ljEIbDz/view?usp=sharing
