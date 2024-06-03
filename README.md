@@ -1,4 +1,7 @@
 # CS-Level-4-First-Semester
+
+**الحمد لله والصلاة والسلام على رسول الله وعلى آله وصحبه**
+
 **_Welcome to CU-FCAI-CS 2024 Material Repository_**
 
 **_🔻🇵🇸 Free Palestine 🇵🇸🔻_**
@@ -7,6 +10,7 @@
 
 ## Get Started
 **Use git commands to Download the Content on your PC**
+
 > git clone https://github.com/ahmedm-sallam/CS-Level-4.git
 
 > git pull
