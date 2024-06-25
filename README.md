@@ -6,6 +6,9 @@
 
 **_🔻🇵🇸 Free Palestine 🇵🇸🔻_**
 
+![senior photo](https://github.com/ahmedm-sallam/CS-Level-4-First-Semester/assets/97572668/bebd7eb2-5fa4-4c2c-be58-c6561e561503)
+
+
 ![CS Logo](https://github.com/ahmedm-sallam/CS-Level-4/assets/97572668/e9aa621e-7161-4b51-ac32-ba3f94cfa173)
 
 ## Get Started
